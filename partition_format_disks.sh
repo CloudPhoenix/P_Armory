@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Perform the partition and format of disks except the OS disk
-# Created by zifeng.w
+# Created by zifengw
 
 # filesystem type to be formatted
 FS_TYPE=ext4
